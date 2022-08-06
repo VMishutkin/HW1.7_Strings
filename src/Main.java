@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Задача 1
+        //
         String firstName = "Ivan";
         String lastName = "Ivanov";
         String middleName = "Ivanovich";
@@ -11,6 +12,6 @@ public class Main {
         //Задача 3
         fullName = "Иванов Семён Семёнович";
         System.out.println("Данные ФИО сотрудника - " + fullName.replace("ё","е"));
-        
+
     }
 }

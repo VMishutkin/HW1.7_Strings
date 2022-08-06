@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/.idea/
+/HW1.7_Strings.iml
